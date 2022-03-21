@@ -1,0 +1,6 @@
+module Pods_DHS_DHSTests {
+  umbrella header "Pods-DHS-DHSTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
